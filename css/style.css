@@ -1195,3 +1195,66 @@ width: 320px;
 }
 
 }
+
+@media(min-width:900px) and (max-width:1440px) {
+#section-header-nav {
+right: 261px;
+}
+
+.nav-h1 {
+ right: 234px; 
+}
+
+.p-underh1{ 
+left: 21.636364%;
+}
+
+.main-button {
+right: 238px;
+}
+
+#section-nav--div{
+width: 1440px;
+}
+
+#section3 {
+width: 1440px;
+}
+
+#section4 {
+  width: 1440px;
+}
+
+.section4-div{
+ left: 124px; 
+}
+
+#photo {
+width: 1440px;
+} 
+
+#overflow {
+  right: 517px;
+}
+
+#section6{
+ width: 1440px; 
+}
+
+.p-sec6 {
+  left: 405px;
+}
+
+.p2-sec6{
+left: 573px;
+}
+
+#btn6{
+left: -598px;
+}
+
+#footer{
+ width: 1903px;
+ right: 229px;
+}
+}
