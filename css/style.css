@@ -1279,4 +1279,77 @@ left: -11px;
 .main-button{
 left: -440px;
 }
+
+#div3-in-section2{
+right:10px;
+}
+
+#section-nav--div{
+  width: 1080px;
+}
+
+.block { 
+left: -24px;
+margin: 21px;
+ }
+
+ .block3{
+ width: 502px; 
+ }
+
+.block3 img{
+width: 541px;
+}
+
+.section4-div{
+position: relative;
+margin: 0px 10px 0px -361px;
+}
+
+.section4-div--block5{
+      width: 220px;
+}
+
+.div4-p2{
+ font-size: 13px;
+ width: 218px; 
+}
+
+#photo img{
+ width: 60%; 
+}
+
+#main_label{
+ left: 348px; 
+ top: -77px;
+}
+
+.p-sec6{
+  left: 197px;
+}
+
+.p2-sec6 {
+left: 371px;
+}
+
+#btn6
+{
+left: -801px;
+}
+
+#footer{
+right: 429px;  
+}
+
+#main_block {
+ height: 3915px; 
+}
+
+#last-footer{
+  left: 0px;
+}
+
+#adress2 {
+ width: 234px; 
+}
 }
