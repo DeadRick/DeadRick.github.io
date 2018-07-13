@@ -1265,14 +1265,18 @@ right: 545px;
 }
 
 .header-nav--img {
-    margin: 28px 0px 0px 192px;
+margin: 28px 0px 0px 192px;
 }
 
 .nav-h1  {
- right: 414px; 
+ right: 451px; 
 }
 
 .p-underh1{
-left: 2.636364%; 
+left: -11px;
+}
+
+.main-button{
+left: -440px;
 }
 }
