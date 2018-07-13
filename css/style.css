@@ -1108,7 +1108,7 @@ margin: auto;
 
     /* ******************************************АДАПТАЦИЯ********************************************** */
 
-@media(min-width:310px) and (max-width:570px) {
+@media(min-width:0px) and (max-width:570px) {
 #section-header { 
  width: 320px;
  height: 568px;
@@ -1196,7 +1196,7 @@ width: 320px;
 
 }
 
-@media(min-width:900px) and (max-width:1440px) {
+@media(min-width:0px) and (max-width:1440px) {
 #section-header-nav {
 right: 261px;
 }
@@ -1256,5 +1256,19 @@ left: -598px;
 #footer{
  width: 1903px;
  right: 229px;
+}
+}
+
+@media(min-width:0px) and (max-width:1080px) { 
+#section-header-nav {
+right: 476px;
+}
+
+.header-nav--img {
+    margin: 28px 0px 0px 141px;
+}
+
+.nav-h1  {
+ right: 465px; 
 }
 }
