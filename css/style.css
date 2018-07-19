@@ -1353,3 +1353,58 @@ right: 429px;
  width: 234px; 
 }
 }
+
+@media(min-width:1440px) and (max-width:1680px){
+#section-header-nav{
+width: 1680px;
+right: 90px;
+}
+
+#header-nav--list {
+margin-right: 65px;  
+} 
+
+#section-header--container{
+right: 124px;
+}
+
+.p-underh1{ 
+left: 318px;
+ }
+
+ #section-nav--div{
+width: 1680px;
+ }
+
+.block3{
+ width: 415px;
+}
+
+.block4 {
+width: 411px;
+}
+
+.block5 {
+  width: 403px;
+}
+
+.section4-div {
+left: 254px;
+}
+
+.p-sec6{
+left: 534px;  
+}
+
+.p2-sec6{
+left: 696px;
+}
+
+#btn6{
+left: -471px;  
+}
+
+#footer{
+right: 96px;
+}
+}
